@@ -19,3 +19,5 @@ The game ends after a specified number of rounds. (when the pool is empty?)
 Players get positive score for completing cards based on what is listed on the 'card', and at the end of the game lose a point for each uncompleted card in hand.
 
 The next step after the MVP will be a hotseat-style two player game, with the plan after that to have a server serving multiple player client webpages.
+
+![mockup screen](./mockup.png)
